@@ -1,2 +1,2 @@
-# idletidalband
+# idletidalBand
 A simple website made for my friends' band.
