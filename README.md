@@ -1,4 +1,4 @@
-# idletidalBand
+# Idle Tidal
 https://mollymcmuffin.github.io/idletidalband/
 
 - A simple website I made for my friends' band. 
